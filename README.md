@@ -36,7 +36,7 @@ This project is a Java-based client-server application that demonstrates network
 
 ## 🧾 Sample Application Output
 
-![Sample App Screenshot](/Users/juliolopez/Documents/GitHub/Fibonacci/images/FinalProjectOutput.png)
+![Sample App Screenshot](https://github.com/donlopez/Fibonacci/blob/main/images/FinalProjectOutput.png)
 
 ---
 
